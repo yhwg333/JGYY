@@ -1,8 +1,8 @@
 ﻿{
-		"spider": "https://gitee.com/yhwg999/gitee/raw/master/jgyy.jar",
+		"spider": "https://raw.githubusercontent.com/yhwg333/JGYY/master/jgyy.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lod2czMzMuZnJlZXR6aS5jb20vSkdZWS90dmJveHR2LnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lod2czMzMvSkdZWS9tYWluL3R2Ym94dHYudHh0"]}]}],
 	"sites": [{
 		"key": "KanSJ_spider",
 		"name": "🐞看视界",
